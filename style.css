@@ -244,7 +244,7 @@ font-size: 25px;
 display: block;
 } 
 .footer-social-icons ul li a i{
-line-height: 25px;
+line-height: 50px;
 }
 .footer-social-icons ul li:hover{
 background: #ff0000;
